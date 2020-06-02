@@ -1,0 +1,864 @@
+Script started on Tue May 19 16:50:52 2020
+Antigen: Another process in running.
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hpython itunes_applescripot  p t.scpt[?2004l
+  File "itunes_applescript.scpt", line 1
+    tell application "iTunes"
+                   ^
+SyntaxError: invalid syntax
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hpython itunes_applescript.scpt[1C[P[24C [25D[P[24C [25D[P[24C [25D[P[24C [25Dp[P[24C [25D[P[24C [25Ds itunes_applescript.scpt[24Dsc itunes_applescript.scpt[24Dr itunes_applescript.scpt[24Di itunes_applescript.scpt[24Dp itunes_applescript.scpt[24Dt itunes_applescript.scpt[24D[?2004l
+Script started, output file is itunes_applescript.scpt
+Antigen: Another process in running.
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hpythonspeedtest[9Dedit     speedtest[9Dpython         vvi itunes_applescript.scpt[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"itunes_applescript.scpt" 1L, 43C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[1;1H[33m  1 [mScript started on Tue May 19 16:51:16 2020
+[1m[34m~                                                                                                     [3;1H~                                                                                                     [4;1H~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[?25l[m[54;1H[K[54;1H:[?2004h[?25hwq[?25l[?2004l"itunes_applescript.scpt"
+[1m[37m[41mWARNING: The file has been changed since reading it!!![?2004h[m
+[92mDo you really want to write to it (y/n)?[?25h[m:
+[?25l[92mDo you really want to write to it (y/n)?[?25h[m"
+[?25l[92mDo you really want to write to it (y/n)?[?25h[my[?25l"itunes_applescript.scpt" 1L, 43C written[?2004l[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004ho vi itunes_applescript.scpt[26D                          [26Dvvi itunes_applescript.scpt[26Dpython                    [20Dspeedtest[9Dedit     speedtest[9Dpython   vi itunes_applescript.scpt[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"itunes_applescript.scpt" 1L, 43C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[1;1H[33m  1 [mScript started on Tue May 19 16:51:16 2020
+[1m[34m~                                                                                                     [3;1H~                                                                                                     [4;1H~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[?25l[m[1;5H[K[54;1H--No lines in buffer--[54;23H[K[1;5H[?25h[?25l[54;1H[38;5;130m-- INSERT --[m[54;13H[K[1;5Htell application "iTunes"
+[33m  2 [m    make new playlist with properties {nam[2;47H[K[2;47H[?25h[?25l[54;1H[K[2;47He:"Testing4"}
+[33m  3 [mend tell[3;13H[K[3;12H[?25h[?25l[54;1H:[?2004h[?25hwq[?25l[?2004l"itunes_applescript.scpt" 3L, 91C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvi itunes_applescript.scptv[P[24C [25D[P[24C [25Do itunes_applescript.scpt[24Doa itunes_applescript.scpt[24Ds itunes_applescript.scpt[24D[P[24C [25Do[P[24C [25Dos itunes_applescript.scpt[24Da itunes_applescript.scpt[24Ds itunes_applescript.scpt[24Dc itunes_applescript.scpt[24Dr itunes_applescript.scpt[24Di itunes_applescript.scpt[24Dp itunes_applescript.scpt[24Dt itunes_applescript.scpt[24D[?2004l
+itunes_applescript.scpt:39:47: execution error: La variable playlist n’est pas définie. (-2753)
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hosascript itunes_applescript.scpt[33Dvi[7P[24C       [?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"itunes_applescript.scpt" 3L, 91C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[1;1H[33m  1 [mtell application "iTunes"
+[33m  2 [m    make new playlist with properties {name:"Testing4"}
+[33m  3 [mend tell
+[1m[34m~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[2;5H[3;5H[2;5H[?25l[m[54;1H[K[54;1H:[?2004h[?25hq[?25l[?2004l[23;2t[23;1t[54;1H[K[54;1H[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvi itunes_applescript.scpt[26Dosascript itun[2C_apple[2Cript.scpt[33Dvi[7P[24C       [26D                          [26Dvi itunes_applescript.scpt[26Dosascript itun[2C_apple[2Cript.scpt[33Dvi[7P[24C       [26Dosascript itun[2C_apple[2Cript.scpt[?2004l
+itunes_applescript.scpt:39:47: execution error: La variable playlist n’est pas définie. (-2753)
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hosascript itunes_applescript.scpt[33D                                 [33Dosascript itunes_applescript.scpt[33D                                 [33Dvv vi a itunes_a py- _appscript.py[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"itunes_py_appscript.py" [New File][?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[?25l[1;1H[33m  1 [m
+[1m[34m~                                                                                                     [3;1H~                                                                                                     [4;1H~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[?25l[m[54;1H[38;5;130m-- INSERT --[m[54;13H[K[1;5H[35mimport[m appscript
+[33m  2 [m[35mimport[m tunes[2;17H[K[3;1H[33m  3 [mitunes = appscript.app([38;5;130m'iTunes'[m, terms=[3;44H[K[3;44H[?25h[?25l[54;1H[K[3;27H[46m([m[16Ctunes[46m)[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[54;1H[m:[?2004h[?25hwq[?25l[?2004l"itunes_py_appscript.py" [New] 3L, 76C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvi itunes_py_appscript.py[25D                         [25Dppython3.8 itunes_py_appscript.py[?2004l
+Traceback (most recent call last):
+  File "itunes_py_appscript.py", line 2, in <module>
+    import tunes
+ModuleNotFoundError: No module named 'tunes'
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hggit clone [7mhttps://github.com/abarnert/itunesterms.git[27m[43D[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ma[27mb[27ma[27mr[27mn[27me[27mr[27mt[27m/[27mi[27mt[27mu[27mn[27me[27ms[27mt[27me[27mr[27mm[27ms[27m.[27mg[27mi[27mt[?2004l
+Clonage dans 'itunesterms'...
+remote: Enumerating objects: 365, done.[K
+[KRéception d'objets:   0% (1/365)[KRéception d'objets:   1% (4/365)[KRéception d'objets:   2% (8/365)[KRéception d'objets:   3% (11/365)[KRéception d'objets:   4% (15/365)[KRéception d'objets:   5% (19/365)[KRéception d'objets:   6% (22/365)[KRéception d'objets:   7% (26/365)[KRéception d'objets:   8% (30/365)[KRéception d'objets:   9% (33/365)[KRéception d'objets:  10% (37/365)[KRéception d'objets:  11% (41/365)[KRéception d'objets:  12% (44/365)[KRéception d'objets:  13% (48/365)[KRéception d'objets:  14% (52/365)[KRéception d'objets:  15% (55/365)[KRéception d'objets:  16% (59/365)[KRéception d'objets:  17% (63/365)[KRéception d'objets:  18% (66/365)[KRéception d'objets:  19% (70/365)[KRéception d'objets:  20% (73/365)[KRéception d'objets:  21% (77/365)[KRéception d'objets:  22% (81/365)[KRéception d'objets:  23% (84/365)[KRéception d'objets:  24% (88/365)[KRéception d'objets:  25% (92/365)[KRéception d'objets:  26% (95/365)[KRéception d'objets:  27% (99/365)[KRéception d'objets:  28% (103/365)[KRéception d'objets:  29% (106/365)[KRéception d'objets:  30% (110/365)[KRéception d'objets:  31% (114/365)[KRéception d'objets:  32% (117/365)[KRéception d'objets:  33% (121/365)[KRéception d'objets:  34% (125/365)[KRéception d'objets:  35% (128/365)[KRéception d'objets:  36% (132/365)[KRéception d'objets:  37% (136/365)[KRéception d'objets:  38% (139/365)[KRéception d'objets:  39% (143/365)[KRéception d'objets:  40% (146/365)[KRéception d'objets:  41% (150/365)[KRéception d'objets:  42% (154/365)[KRéception d'objets:  43% (157/365)[KRéception d'objets:  44% (161/365)[KRéception d'objets:  45% (165/365)[KRéception d'objets:  46% (168/365)[KRéception d'objets:  47% (172/365)[KRéception d'objets:  48% (176/365)[KRéception d'objets:  49% (179/365)[KRéception d'objets:  50% (183/365)[KRéception d'objets:  51% (187/365)[KRéception d'objets:  52% (190/365)[KRéception d'objets:  53% (194/365)[KRéception d'objets:  54% (198/365)[KRéception d'objets:  55% (201/365)[KRéception d'objets:  56% (205/365)[KRéception d'objets:  57% (209/365)[KRéception d'objets:  58% (212/365)[KRéception d'objets:  59% (216/365)[KRéception d'objets:  60% (219/365)[KRéception d'objets:  61% (223/365)[KRéception d'objets:  62% (227/365)[KRéception d'objets:  63% (230/365)[KRéception d'objets:  64% (234/365)[KRéception d'objets:  65% (238/365)[KRéception d'objets:  66% (241/365)[KRéception d'objets:  67% (245/365)[KRéception d'objets:  68% (249/365)[KRéception d'objets:  69% (252/365)[KRéception d'objets:  70% (256/365)[KRéception d'objets:  71% (260/365)[KRéception d'objets:  72% (263/365)[KRéception d'objets:  73% (267/365)[KRéception d'objets:  74% (271/365)[KRéception d'objets:  75% (274/365)[KRéception d'objets:  76% (278/365)[KRéception d'objets:  77% (282/365)[KRéception d'objets:  78% (285/365)[KRéception d'objets:  79% (289/365)[KRéception d'objets:  80% (292/365)[KRéception d'objets:  81% (296/365)[KRéception d'objets:  82% (300/365)[KRéception d'objets:  83% (303/365)[KRéception d'objets:  84% (307/365)[KRéception d'objets:  85% (311/365)[KRéception d'objets:  86% (314/365)[Kremote: Total 365 (delta 0), reused 0 (delta 0), pack-reused 365[K
+Réception d'objets:  87% (318/365)[KRéception d'objets:  88% (322/365)[KRéception d'objets:  89% (325/365)[KRéception d'objets:  90% (329/365)[KRéception d'objets:  91% (333/365)[KRéception d'objets:  92% (336/365)[KRéception d'objets:  93% (340/365)[KRéception d'objets:  94% (344/365)[KRéception d'objets:  95% (347/365)[KRéception d'objets:  96% (351/365)[KRéception d'objets:  97% (355/365)[KRéception d'objets:  98% (358/365)[KRéception d'objets:  99% (362/365)[KRéception d'objets: 100% (365/365)[KRéception d'objets: 100% (365/365), 113.08 Kio | 578.00 Kio/s, fait.
+[KRésolution des deltas:   0% (0/271)[KRésolution des deltas:   1% (5/271)[KRésolution des deltas:   4% (11/271)[KRésolution des deltas:  14% (38/271)[KRésolution des deltas:  29% (79/271)[KRésolution des deltas:  42% (114/271)[KRésolution des deltas:  49% (133/271)[KRésolution des deltas:  61% (167/271)[KRésolution des deltas:  62% (169/271)[KRésolution des deltas:  63% (173/271)[KRésolution des deltas:  80% (219/271)[KRésolution des deltas:  81% (221/271)[KRésolution des deltas:  85% (231/271)[KRésolution des deltas:  89% (242/271)[KRésolution des deltas:  90% (246/271)[KRésolution des deltas:  91% (249/271)[KRésolution des deltas:  92% (251/271)[KRésolution des deltas:  94% (255/271)[KRésolution des deltas:  96% (262/271)[KRésolution des deltas:  98% (266/271)[KRésolution des deltas:  99% (269/271)[KRésolution des deltas: 100% (271/271)[KRésolution des deltas: 100% (271/271), fait.
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hffinder[?2004l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hfindergit clone https://github.com/abarnert/itunesterms.git[53Dpython3.8 itunes_py_appscript.py                     [21D[?2004l
+Traceback (most recent call last):
+  File "itunes_py_appscript.py", line 3, in <module>
+    itunes = appscript.app('iTunes', terms=tunes)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 799, in __call__
+    return self._appclass(*args, **kargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 734, in __init__
+    constructor, identifier = 'path', aem.findapp.byname(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 47, in byname
+    name = _findapp(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 15, in _findapp
+    return findapplicationforinfo(creator, id, name)
+aem.ae.MacOSError: -50
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvvi test_appscrpit   ipt.py[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"test_appscript.py" [New File][?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[?25l[1;1H[33m  1 [m
+[1m[34m~                                                                                                     [3;1H~                                                                                                     [4;1H~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[?25l[m[54;1H[38;5;130m-- INSERT --[m[54;13H[K[1;5H[35mfrom[m appscript.terminology [35mimport[m dump
+[33m  2 [mdump([38;5;130m'/Applications/iTunes.app[m[2;35H[K[2;35H[?25h[?25l[54;1H[K[2;9H[46m([m[25C[38;5;130m'[m, [38;5;130m'tunes.py'[m[46m)[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[54;1H[m:[?2004h[?25hwq[?25l[?2004l"test_appscript.py" [New] 2L, 84C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvi test_appscript.py[20D                    [20Dppython3.8 a test_appscript.py[?2004l
+Traceback (most recent call last):
+  File "test_appscript.py", line 2, in <module>
+    dump('/Applications/iTunes.app', 'tunes.py')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/terminology.py", line 217, in dump
+    apppath = findapp.byname(apppath)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 55, in byname
+    raise ApplicationNotFoundError(name)
+aem.findapp.ApplicationNotFoundError: Local application '/Applications/iTunes.app' not found.
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hlls[?2004l
+__pycache__		itunes_py_appscript.py	test_appscript.py	typescript
+appscript_itunes.py	itunesterms		trunk
+itunes_applescript.scpt	main.py			tunes.py
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hlspython3.8 test_appscript.py[27Dvi[7P[18C       [?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"test_appscript.py" 2L, 84C[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[?25l[1;1H[33m  1 [m[35mfrom[m appscript.terminology [35mimport[m dump
+[33m  2 [mdump([38;5;130m'/Applications/iTunes.app'[m, [38;5;130m'tunes.py'[m)
+[1m[34m~                                                                                                     [4;1H~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[?2004l[?2004h[?2004l[?2004h[2;5H[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[1;5H[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[2;5H[?2004l[?2004h[?2004l[?2004h[md[?2004l[?2004h[?2004l[?2004hum[?2004l[?2004h[?2004l[?2004h[?25lp[46m([38C)[2;9H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[m([38C)[2;10H[?25h[1C[1C[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mApplications/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;48H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mpplications/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;47H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[1C[38;5;130mlications/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;46H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mlications/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;45H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mications/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;44H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mcations/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;43H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mations/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;42H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mtions/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;41H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mions/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;40H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mons/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;39H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mns/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;38H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130ms/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;37H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130m/iTunes.app'[m, [38;5;130m'tunes.py'[m)[2;36H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130miTunes.app'[m, [38;5;130m'tunes.py'[m)[2;35H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mTunes.app'[m, [38;5;130m'tunes.py'[m)[2;34H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130munes.app'[m, [38;5;130m'tunes.py'[m)[2;33H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mnes.app'[m, [38;5;130m'tunes.py'[m)[2;32H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mes.app'[m, [38;5;130m'tunes.py'[m)[2;31H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130ms.app'[m, [38;5;130m'tunes.py'[m)[2;30H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130m.app'[m, [38;5;130m'tunes.py'[m)[2;29H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mapp'[m, [38;5;130m'tunes.py'[m)[2;28H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130mpp'[m, [38;5;130m'tunes.py'[m)[2;27H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[1C[38;5;130m'[m, [38;5;130m'tunes.py'[m)[2;26H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130m'[m, [38;5;130m'tunes.py'[m)[2;25H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[54;1H1 change; before #24  0 seconds ago[2;11H[38;5;130mp'[m, [38;5;130m'tunes.py'[m)[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[54;1H[38;5;130m-- INSERT --[m[54;13H[K[54;1H[K[2;12H[38;5;130m/System/Applications/Music.app '[m, [38;5;130m'tunes.py'[m)[2;42H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[1C[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130m/System/Applications/Music.app '[m, [38;5;130m'tunes.py'[m)[2;56H[K[2;11H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[1C[?2004l[?2004h[?2004l[?2004h[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l[?2004h[?2004l[?2004h[1C[?2004l[?2004h[?2004l[?2004h[?25l[38;5;130m'[m, [38;5;130m'tunes.py'[m)[2;55H[K[2;41H[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[54;1H:[?2004h[?25hwq[?25l[?2004l"test_appscript.py" 2L, 90C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvi test_appscript.py[20Dls                  [18Dpython3.8 test_appscript.py[27Dvi[7P[18C       [20Dpython3.8 test_appscript.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hpython3.8 test_appscript.py[27Dvi[7P[18C       [?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"test_appscript.py" 2L, 90C[?25h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[?25l[1;1H[33m  1 [m[35mfrom[m appscript.terminology [35mimport[m dump
+[33m  2 [mdump([38;5;130m'/System/Applications/Music.app'[m, [38;5;130m'tunes.py'[m)
+[1m[34m~                                                                                                     [4;1H~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[?2004l[?2004h[?2004l[?2004h[2;5H[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?2004l[?2004h[?25l[m[54;1H[K[54;1H:[?2004h[?25hq[?25l[?2004l[23;2t[23;1t[54;1H[K[54;1H[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hvi test_appscript.py[20Dpython3.8 test_appscript.py[27Dvi[7P[18C       [20Dls                  [18Dpython3.8 test_appscript.py[27Dvi[7P[18C       [20Dpython3.8 itunes_py_appscript.py[?2004l
+Traceback (most recent call last):
+  File "itunes_py_appscript.py", line 3, in <module>
+    itunes = appscript.app('iTunes', terms=tunes)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 799, in __call__
+    return self._appclass(*args, **kargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 734, in __init__
+    constructor, identifier = 'path', aem.findapp.byname(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 47, in byname
+    name = _findapp(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 15, in _findapp
+    return findapplicationforinfo(creator, id, name)
+aem.ae.MacOSError: -50
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hpython3.8 itunes_py_appscript.py[32Dvi test[12P[13C            [12D[20Dpython3.8 test_appscript.py[27Dvi[7P[18C       [20Dls                  [18Dpython3.8 test_appscript.py[27Dvi[7P[18C       [20Dpython3.8 itunes_py_appscript.py[32Dfinder                          [26Dgit clone https://github.com/abarnert/itunesterms.git[53Dpython3.8 itunes_py_appscript.py                     [21D[32Dvi[7P[23C       [25Dosascript itunes_applescript.scpt[33Dvi[7P[24C       [26Dosascript itun[2C_apple[2Cript.scpt[?2004l
+itunes_applescript.scpt:39:47: execution error: La variable playlist n’est pas définie. (-2753)
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hosascript itunes_applescript.scpt[33Dpython3.8[8Cpy_appscript.py [32Dosascript[8Capplescript.scpt[33D                                 [33Dvvi v  vvi itunes_applescript.c scpt[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;54r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[54;1H"itunes_applescript.scpt" 3L, 91C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[54;1H[1;1H[33m  1 [mtell application "iTunes"
+[33m  2 [m    make new playlist with properties {name:"Testing4"}
+[33m  3 [mend tell
+[1m[34m~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [1;5H[?25h[2;5H[3;5H[mend tel[2;12He new playlist with prope[?25l[54;1H[K[54;1H:[?2004h[?25h...[?25l:![54;3H[K[54;3H[?25hq[?25l:!q[?2004l[?1l>[?25h[>4;m[?1049l
+zsh:1: command not found: q
+
+shell returned 127
+
+Press ENTER or type command to continue[?1049h[>4;2m[?1h=[?2004h[27m[29m[m[H[2J[?25l[1;1H[33m  1 [mtell application "iTunes"
+[33m  2 [m    make new playlist with properties {name:"Testing4"}
+[33m  3 [mend tell
+[1m[34m~                                                                                                     [5;1H~                                                                                                     [6;1H~                                                                                                     [7;1H~                                                                                                     [8;1H~                                                                                                     [9;1H~                                                                                                     [10;1H~                                                                                                     [11;1H~                                                                                                     [12;1H~                                                                                                     [13;1H~                                                                                                     [14;1H~                                                                                                     [15;1H~                                                                                                     [16;1H~                                                                                                     [17;1H~                                                                                                     [18;1H~                                                                                                     [19;1H~                                                                                                     [20;1H~                                                                                                     [21;1H~                                                                                                     [22;1H~                                                                                                     [23;1H~                                                                                                     [24;1H~                                                                                                     [25;1H~                                                                                                     [26;1H~                                                                                                     [27;1H~                                                                                                     [28;1H~                                                                                                     [29;1H~                                                                                                     [30;1H~                                                                                                     [31;1H~                                                                                                     [32;1H~                                                                                                     [33;1H~                                                                                                     [34;1H~                                                                                                     [35;1H~                                                                                                     [36;1H~                                                                                                     [37;1H~                                                                                                     [38;1H~                                                                                                     [39;1H~                                                                                                     [40;1H~                                                                                                     [41;1H~                                                                                                     [42;1H~                                                                                                     [43;1H~                                                                                                     [44;1H~                                                                                                     [45;1H~                                                                                                     [46;1H~                                                                                                     [47;1H~                                                                                                     [48;1H~                                                                                                     [49;1H~                                                                                                     [50;1H~                                                                                                     [51;1H~                                                                                                     [52;1H~                                                                                                     [53;1H~                                                                                                     [2;18H[?25h[?25l[54;1H[m:[?2004h[?25hq![?25l[?2004l[23;2t[23;1t[?2004l[?1l>[?25h[>4;m[?1049l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hppython3.8[?2004l
+Python 3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from pap[K[K[Kpp[K[Kappscript import *
+>>> itunes[K[K[K[K[KTunes = app('I[Kit[Ktunes')[Pu[1@Tu
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 799, in __call__
+    return self._appclass(*args, **kargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 734, in __init__
+    constructor, identifier = 'path', aem.findapp.byname(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 47, in byname
+    name = _findapp(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 15, in _findapp
+    return findapplicationforinfo(creator, id, name)
+aem.ae.MacOSError: -50
+>>> import os
+>>> from itunesLibrary import library
+>>> ath = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")
+>>> ath = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")[1@pa
+>>> path
+'/Users/marcpartensky/Music/iTunes/iTunes Music Library.xml'
+>>> lib = library.parse(path)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunesLibrary/library.py", line 14, in parse
+    return parser.Parser().parse(pathToXMLFile,ignoreRemoteSongs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunesLibrary/parser.py", line 43, in parse
+    xml.sax.parse(open(pathToXMLFile,'r'), self)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/marcpartensky/Music/iTunes/iTunes Music Library.xml'
+>>> quit()
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hllsl  ccdc  ppip3.8 install itnu  unes[?2004l
+Collecting itunes
+  Downloading itunes-2019.4.13.tar.gz (2.6 kB)
+Collecting applescript
+  Downloading applescript-2020.4.15.tar.gz (2.2 kB)
+Collecting public
+  Downloading public-2019.4.13.tar.gz (2.3 kB)
+Requirement already satisfied: setuptools in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from itunes) (41.2.0)
+Collecting only
+  Downloading only-2019.4.13.tar.gz (1.5 kB)
+Collecting decorator
+  Downloading decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting detect
+  Downloading detect-2019.4.13.tar.gz (1.5 kB)
+Could not build wheels for itunes, since package 'wheel' is not installed.
+Could not build wheels for applescript, since package 'wheel' is not installed.
+Could not build wheels for public, since package 'wheel' is not installed.
+Could not build wheels for setuptools, since package 'wheel' is not installed.
+Could not build wheels for only, since package 'wheel' is not installed.
+Could not build wheels for detect, since package 'wheel' is not installed.
+Installing collected packages: decorator, detect, public, only, applescript, itunes
+    Running setup.py install for detect ... [?25l- done
+[?25h    Running setup.py install for public ... [?25l- done
+[?25h    Running setup.py install for only ... [?25l- done
+[?25h    Running setup.py install for applescript ... [?25l- done
+[?25h    Running setup.py install for itunes ... [?25l- done
+[?25hSuccessfully installed applescript-2020.4.15 decorator-4.4.2 detect-2019.4.13 itunes-2019.4.13 only-2019.4.13 public-2019.4.13
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004h[7mitunes.playlists.names()[27m[24D[27mi[27mt[27mu[27mn[27me[27ms[27m.[27mp[27ml[27ma[27my[27ml[27mi[27ms[27mt[27ms[27m.[27mn[27ma[27mm[27me[27ms[27m([27m)[?2004l
+[0m[27m[24m[Jfunction> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hppython3.8 [?2004l
+Python 3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> itunes.playlists.names()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'itunes' is not defined
+>>> import in[Ktunes
+>>> itunes.playlists.names()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/playlists.py", line 8, in names
+    return itunes.tell('get name of playlists').split(", ")
+AttributeError: 'Result' object has no attribute 'split'
+>>> itunes.playlists.names()[5G[Kitunes.pause()
+>>> itunes.stop()
+>>> itunes.tracks.play("track_name","playlist")[P"[P"[P"[P"[P"[P"[P"[P"[P"[P"[1@D"[1@a"[1@v"[1@i"[1@d"[1@ "[1@B"[1@o"[1@e"[P"[1@w"[1@i"[1@e"
+>>> itunes.tracks.play("David Bowie","playlist")[1@ri[1@ei[1@si[1@ui[1@li[1@ti[1@ i[1@=i[1@ i
+>>> print9[K(result)
+None
+>>> itunes.activate()
+>>> itunes.frontmost()
+False
+>>> itunes.frontmost()[12Gactivate()[K
+>>>  itunes.playlists.names()
+  File "<stdin>", line 1
+    itunes.playlists.names()
+    ^
+IndentationError: unexpected indent
+>>>  itunes.playlists.names()[Pi
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/playlists.py", line 8, in names
+    return itunes.tell('get name of playlists').split(", ")
+AttributeError: 'Result' object has no attribute 'split'
+>>> itunes.playlists.names()[K[K[K[K[K[K[K[K
+<module 'itunes.playlists' from '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/playlists.py'>
+>>> itunes.playlistsitunes.playlistsitunes.playlists.__i[Kdict__
+{'__name__': 'itunes.playlists', '__doc__': None, '__package__': 'itunes', '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x10940b880>, '__spec__': ModuleSpec(name='itunes.playlists', loader=<_frozen_importlib_external.SourceFileLoader object at 0x10940b880>, origin='/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/playlists.py'), '__file__': '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/playlists.py', '__cached__': '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/__pycache__/playlists.cpython-38.pyc', '__builtins__': {'__name__': 'builtins', '__doc__': "Built-in functions, exceptions, and other objects.\n\nNoteworthy: None is the `nil' object; Ellipsis represents `...' in slices.", '__package__': '', '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': ModuleSpec(name='builtins', loader=<class '_frozen_importlib.BuiltinImporter'>), '__build_class__': <built-in function __build_class__>, '__import__': <built-in function __import__>, 'abs': <built-in function abs>, 'all': <built-in function all>, 'any': <built-in function any>, 'ascii': <built-in function ascii>, 'bin': <built-in function bin>, 'breakpoint': <built-in function breakpoint>, 'callable': <built-in function callable>, 'chr': <built-in function chr>, 'compile': <built-in function compile>, 'delattr': <built-in function delattr>, 'dir': <built-in function dir>, 'divmod': <built-in function divmod>, 'eval': <built-in function eval>, 'exec': <built-in function exec>, 'format': <built-in function format>, 'getattr': <built-in function getattr>, 'globals': <built-in function globals>, 'hasattr': <built-in function hasattr>, 'hash': <built-in function hash>, 'hex': <built-in function hex>, 'id': <built-in function id>, 'input': <built-in function input>, 'isinstance': <built-in function isinstance>, 'issubclass': <built-in function issubclass>, 'iter': <built-in function iter>, 'len': <built-in function len>, 'locals': <built-in function locals>, 'max': <built-in function max>, 'min': <built-in function min>, 'next': <built-in function next>, 'oct': <built-in function oct>, 'ord': <built-in function ord>, 'pow': <built-in function pow>, 'print': <built-in function print>, 'repr': <built-in function repr>, 'round': <built-in function round>, 'setattr': <built-in function setattr>, 'sorted': <built-in function sorted>, 'sum': <built-in function sum>, 'vars': <built-in function vars>, 'None': None, 'Ellipsis': Ellipsis, 'NotImplemented': NotImplemented, 'False': False, 'True': True, 'bool': <class 'bool'>, 'memoryview': <class 'memoryview'>, 'bytearray': <class 'bytearray'>, 'bytes': <class 'bytes'>, 'classmethod': <class 'classmethod'>, 'complex': <class 'complex'>, 'dict': <class 'dict'>, 'enumerate': <class 'enumerate'>, 'filter': <class 'filter'>, 'float': <class 'float'>, 'frozenset': <class 'frozenset'>, 'property': <class 'property'>, 'int': <class 'int'>, 'list': <class 'list'>, 'map': <class 'map'>, 'object': <class 'object'>, 'range': <class 'range'>, 'reversed': <class 'reversed'>, 'set': <class 'set'>, 'slice': <class 'slice'>, 'staticmethod': <class 'staticmethod'>, 'str': <class 'str'>, 'super': <class 'super'>, 'tuple': <class 'tuple'>, 'type': <class 'type'>, 'zip': <class 'zip'>, '__debug__': True, 'BaseException': <class 'BaseException'>, 'Exception': <class 'Exception'>, 'TypeError': <class 'TypeError'>, 'StopAsyncIteration': <class 'StopAsyncIteration'>, 'StopIteration': <class 'StopIteration'>, 'GeneratorExit': <class 'GeneratorExit'>, 'SystemExit': <class 'SystemExit'>, 'KeyboardInterrupt': <class 'KeyboardInterrupt'>, 'ImportError': <class 'ImportError'>, 'ModuleNotFoundError': <class 'ModuleNotFoundError'>, 'OSError': <class 'OSError'>, 'EnvironmentError': <class 'OSError'>, 'IOError': <class 'OSError'>, 'EOFError': <class 'EOFError'>, 'RuntimeError': <class 'RuntimeError'>, 'RecursionError': <class 'RecursionError'>, 'NotImplementedError': <class 'NotImplementedError'>, 'NameError': <class 'NameError'>, 'UnboundLocalError': <class 'UnboundLocalError'>, 'AttributeError': <class 'AttributeError'>, 'SyntaxError': <class 'SyntaxError'>, 'IndentationError': <class 'IndentationError'>, 'TabError': <class 'TabError'>, 'LookupError': <class 'LookupError'>, 'IndexError': <class 'IndexError'>, 'KeyError': <class 'KeyError'>, 'ValueError': <class 'ValueError'>, 'UnicodeError': <class 'UnicodeError'>, 'UnicodeEncodeError': <class 'UnicodeEncodeError'>, 'UnicodeDecodeError': <class 'UnicodeDecodeError'>, 'UnicodeTranslateError': <class 'UnicodeTranslateError'>, 'AssertionError': <class 'AssertionError'>, 'ArithmeticError': <class 'ArithmeticError'>, 'FloatingPointError': <class 'FloatingPointError'>, 'OverflowError': <class 'OverflowError'>, 'ZeroDivisionError': <class 'ZeroDivisionError'>, 'SystemError': <class 'SystemError'>, 'ReferenceError': <class 'ReferenceError'>, 'MemoryError': <class 'MemoryError'>, 'BufferError': <class 'BufferError'>, 'Warning': <class 'Warning'>, 'UserWarning': <class 'UserWarning'>, 'DeprecationWarning': <class 'DeprecationWarning'>, 'PendingDeprecationWarning': <class 'PendingDeprecationWarning'>, 'SyntaxWarning': <class 'SyntaxWarning'>, 'RuntimeWarning': <class 'RuntimeWarning'>, 'FutureWarning': <class 'FutureWarning'>, 'ImportWarning': <class 'ImportWarning'>, 'UnicodeWarning': <class 'UnicodeWarning'>, 'BytesWarning': <class 'BytesWarning'>, 'ResourceWarning': <class 'ResourceWarning'>, 'ConnectionError': <class 'ConnectionError'>, 'BlockingIOError': <class 'BlockingIOError'>, 'BrokenPipeError': <class 'BrokenPipeError'>, 'ChildProcessError': <class 'ChildProcessError'>, 'ConnectionAbortedError': <class 'ConnectionAbortedError'>, 'ConnectionRefusedError': <class 'ConnectionRefusedError'>, 'ConnectionResetError': <class 'ConnectionResetError'>, 'FileExistsError': <class 'FileExistsError'>, 'FileNotFoundError': <class 'FileNotFoundError'>, 'IsADirectoryError': <class 'IsADirectoryError'>, 'NotADirectoryError': <class 'NotADirectoryError'>, 'InterruptedError': <class 'InterruptedError'>, 'PermissionError': <class 'PermissionError'>, 'ProcessLookupError': <class 'ProcessLookupError'>, 'TimeoutError': <class 'TimeoutError'>, 'open': <built-in function open>, 'quit': Use quit() or Ctrl-D (i.e. EOF) to exit, 'exit': Use exit() or Ctrl-D (i.e. EOF) to exit, 'copyright': Copyright (c) 2001-2020 Python Software Foundation.
+All Rights Reserved.
+
+Copyright (c) 2000 BeOpen.com.
+All Rights Reserved.
+
+Copyright (c) 1995-2001 Corporation for National Research Initiatives.
+All Rights Reserved.
+
+Copyright (c) 1991-1995 Stichting Mathematisch Centrum, Amsterdam.
+All Rights Reserved., 'credits':     Thanks to CWI, CNRI, BeOpen.com, Zope Corporation and a cast of thousands
+    for supporting Python development.  See www.python.org for more information., 'license': Type license() to see the full license text, 'help': Type help() for interactive help, or help(object) for help about object., '_': None}, 'public': <module 'public' from '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/public/__init__.py'>, 'itunes': <module 'itunes' from '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/__init__.py'>, '__all__': ['names', 'play'], 'names': <function names at 0x1096b6c10>, 'play': <function play at 0x1096b6dc0>}
+>>> itunes.playlists.__dict__[5G[Kitunes.playlists.__dict__[K[K[K[K[K[K[K[Knames
+<function names at 0x1096b6c10>
+>>> itunes.playlists.namesitunes.playlists.names()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/itunes/playlists.py", line 8, in names
+    return itunes.tell('get name of playlists').split(", ")
+AttributeError: 'Result' object has no attribute 'split'
+>>> quit()
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hppip3.8 7 install itunes[?2004l
+Collecting itunes
+  Using cached itunes-2019.4.13.tar.gz (2.6 kB)
+Collecting applescript
+  Using cached applescript-2020.4.15.tar.gz (2.2 kB)
+Collecting public
+  Using cached public-2019.4.13.tar.gz (2.3 kB)
+Requirement already satisfied: setuptools in /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages (from itunes) (45.1.0)
+Collecting only
+  Using cached only-2019.4.13.tar.gz (1.5 kB)
+Requirement already satisfied: decorator in /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages (from only->applescript->itunes) (4.3.2)
+Collecting detect
+  Using cached detect-2019.4.13.tar.gz (1.5 kB)
+Building wheels for collected packages: itunes, applescript, public, only, detect
+  Building wheel for itunes (setup.py) ... [?25l- \ done
+[?25h  Created wheel for itunes: filename=itunes-2019.4.13-py3-none-any.whl size=4397 sha256=412ca538c6b2f186ca0f7e216cb5a3d8d0bcbc165dd0254a1c0388265c6a350d
+  Stored in directory: /Users/marcpartensky/Library/Caches/pip/wheels/24/1f/08/fc5e7745141aa3e9c64521d4b58251e9ae9e9a427026e3fe70
+  Building wheel for applescript (setup.py) ... [?25l- \ done
+[?25h  Created wheel for applescript: filename=applescript-2020.4.15-py3-none-any.whl size=3359 sha256=7d3079c4713f77ea894fcb4480aa36cf70e9ef931adfdb0c27d90e48899a3253
+  Stored in directory: /Users/marcpartensky/Library/Caches/pip/wheels/e5/22/e3/32603b09cc2829651adfbb31f2f87d237c1c7be87ba8134194
+  Building wheel for public (setup.py) ... [?25l- \ done
+[?25h  Created wheel for public: filename=public-2019.4.13-py3-none-any.whl size=2534 sha256=92a01b7a6b62775b30f99bf180aa90e8871abef52915b50eede471e999b56c3f
+  Stored in directory: /Users/marcpartensky/Library/Caches/pip/wheels/db/69/b3/c0c7fb2ce5d44ed3d09b495462799b0360ea86303197a924fb
+  Building wheel for only (setup.py) ... [?25l- \ done
+[?25h  Created wheel for only: filename=only-2019.4.13-py3-none-any.whl size=1888 sha256=4698d8e5349cd063f07a6ebc43f766bfd3108dc405fe6c786b6fa48572c9f0ec
+  Stored in directory: /Users/marcpartensky/Library/Caches/pip/wheels/28/38/98/326504d669eab8a837aee78624e5908fa128f40441431a0ffd
+  Building wheel for detect (setup.py) ... [?25l- \ done
+[?25h  Created wheel for detect: filename=detect-2019.4.13-py3-none-any.whl size=1934 sha256=bf592fc741dce1865dd8c6512c97ee0e73cab47483ba83307dd525c3d0e36153
+  Stored in directory: /Users/marcpartensky/Library/Caches/pip/wheels/41/73/e8/761dbceff414405fd070faa4f0fe019aa2a4a9779ff23b1bbd
+Successfully built itunes applescript public only detect
+Installing collected packages: detect, public, only, applescript, itunes
+Successfully installed applescript-2020.4.15 detect-2019.4.13 itunes-2019.4.13 only-2019.4.13 public-2019.4.13
+[33mWARNING: You are using pip version 20.0.2; however, version 20.1.1 is available.
+You should consider upgrading via the '/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7 -m pip install --upgrade pip' command.[0m
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hppython3.7[?2004l
+Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> itunes.playlists.names()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'itunes' is not defined
+>>> import itunes
+>>> itunes.playlists.names()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/itunes/playlists.py", line 8, in names
+    return itunes.tell('get name of playlists').split(", ")
+AttributeError: 'Result' object has no attribute 'split'
+>>> itunes.tell('get name of playlists')\
+... 
+KeyboardInterrupt
+>>> itunes.tell('get name of playlists')
+<applescript._result.Result object at 0x109d9ddd0>
+>>> itunes.tell('get name of playlists'))[[K[1@lii[1@it[1@si[1@ti[1@(iitunes.tell('get name of playlists');2C([K[K[K[K)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'Result' object is not iterable
+>>> list(itunes.tell('get name of playlists'))[K[Pi[Pi[Pi[Pt[Piitunes.t[1@si[1@ti[1@ri[1@(iitunes.tell('get name of playlists';)2)C);)2)C)())[K)[K)[K)[K)[K)[K)[K))
+'<applescript._result.Result object at 0x109ae2650>'
+>>> str(itunes.tell('get name of playlists'))[K[Pi[Pi[Pi[Piitunes.tell('get name of playlists')[0]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'Result' object is not subscriptable
+>>> itunes.tell('get name of playlists')[0][K[K[K.__dict__
+{'code': 1, 'out': '', 'err': '34:43: execution error: La variable playlists n’est pas définie. (-2753)'}
+>>> itunes.tell('get name of playlists').__dict__[K[K[K[K[K[K[K[K[Kitunes.prev()
+  File "<stdin>", line 1
+    itunes.tell('get name of playlists')itunes.prev()
+                                             ^
+SyntaxError: invalid syntax
+>>> itunes.prev()
+>>> itunes.volume.get()
+>>> itunes.pid()
+>>> itunes.activate()
+>>> itunes.activate()
+>>> import appscript
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'appscript'
+>>> quit()
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hppython3.8[?2004l
+Python 3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import appscript
+>>> app = appscript.app('iTunes')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 799, in __call__
+    return self._appclass(*args, **kargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/appscript/reference.py", line 734, in __init__
+    constructor, identifier = 'path', aem.findapp.byname(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 47, in byname
+    name = _findapp(name)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/appscript-1.0.0-py3.8-macosx-10.9-x86_64.egg/aem/findapp.py", line 15, in _findapp
+    return findapplicationforinfo(creator, id, name)
+aem.ae.MacOSError: -50
+>>> app = appscript.app('iTunes')[5G[Kimport itunes
+>>> itn[Kunes.--[K[K__doc__
+>>> itunes[K[K[K[K[K[Kitunes[K[K[K[K[K[Khelp*[K(itunes)
+[?1049h[?1h=Help on package itunes:
+
+[1mNAME[0m
+    itunes - # -*- coding: utf-8 -*-
+
+[1mPACKAGE CONTENTS[0m
+    helper
+    pause
+    play
+    playing
+    playlists
+    tracks
+    volume
+
+[1mFUNCTIONS[0m
+    [1mactivate[0m()
+        open iTunes and make it frontmost
+    
+    [1mfrontmost[0m()
+        return True if `iTunes.app` is frontmost app, else False
+    
+    [1mkill[0m()
+    
+    [1mmute[0m()
+        mute iTunes
+    
+    [1mmuted[0m()
+        return True if iTunes muted, else False
+    
+    [1mnext[0m()
+        play next track
+    
+    [1mpause[0m()
+        pause iTunes
+    
+    [1mpid[0m()
+        return iTunes.app pid
+    
+    [1mplay[0m()
+    
+    [1mplaying[0m()
+        return True if iTunes is playing, else False
+    
+    [1mprev[0m()
+        play previous track
+    
+    [1mquit[0m()
+        Quit iTunes
+    
+    [1mstate[0m()
+        return player state string
+    
+    [1mstop[0m()
+:[K[K:[K[K[?1l>[?1049l
+>>> 
+>>> quit()
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hpython3.878[?2004l
+Python 3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import itunes
+>>> itunes.actiat[K[Kvate()
+>>> itunes.frontmost()
+False
+>>> quit()[K[K[K[K[K[Kitunesa[K.actiavte[K[K[K[Kvate()
+>>> itunes.activate()
+>>> itunes.quit()
+>>> ,[Kquit()
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hlls[?2004l
+__pycache__		itunes_py_appscript.py	test_appscript.py	typescript
+appscript_itunes.py	itunesterms		trunk
+itunes_applescript.scpt	main.py			tunes.py
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/Programs/Python/Repository-2020/Itunes[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier Itunes % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier ~ % [K[?2004hccd sherc lco  ock[?2004l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/sherlock[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier sherlock % [K[?2004hlls[?2004l
+CODE_OF_CONDUCT.md	ValentinColin.txt	marc partensky.txt	sites.md
+CONTRIBUTING.md		data_bad_site.json	removed_sites.md	valentin colin.txt
+Dockerfile		docker-compose.yml	requirements.txt
+LICENSE			env			sherlock
+README.md		images			site_list.py
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky/sherlock[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier sherlock % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier ~ % [K[?2004hddu - h sher      sherok  lock[?2004l
+176	sherlock/sherlock/resources
+56	sherlock/sherlock/tests
+88	sherlock/sherlock/__pycache__
+440	sherlock/sherlock
+2792	sherlock/images
+144	sherlock/env/bin
+72	sherlock/env/lib/python3.8/site-packages/chardet-3.0.4.dist-info
+40	sherlock/env/lib/python3.8/site-packages/bs4-0.0.1.dist-info
+920	sherlock/env/lib/python3.8/site-packages/chardet/__pycache__
+16	sherlock/env/lib/python3.8/site-packages/chardet/cli/__pycache__
+32	sherlock/env/lib/python3.8/site-packages/chardet/cli
+1824	sherlock/env/lib/python3.8/site-packages/chardet
+64	sherlock/env/lib/python3.8/site-packages/beautifulsoup4-4.9.1.dist-info
+184	sherlock/env/lib/python3.8/site-packages/soupsieve/__pycache__
+432	sherlock/env/lib/python3.8/site-packages/soupsieve
+64	sherlock/env/lib/python3.8/site-packages/colorama/__pycache__
+144	sherlock/env/lib/python3.8/site-packages/colorama
+56	sherlock/env/lib/python3.8/site-packages/soupsieve-2.0.1.dist-info
+72	sherlock/env/lib/python3.8/site-packages/PySocks-1.7.1.dist-info
+464	sherlock/env/lib/python3.8/site-packages/idna/__pycache__
+1016	sherlock/env/lib/python3.8/site-packages/idna
+104	sherlock/env/lib/python3.8/site-packages/wheel/__pycache__
+8	sherlock/env/lib/python3.8/site-packages/wheel/cli/__pycache__
+56	sherlock/env/lib/python3.8/site-packages/wheel/cli
+312	sherlock/env/lib/python3.8/site-packages/wheel
+304	sherlock/env/lib/python3.8/site-packages/bs4/tests/__pycache__
+616	sherlock/env/lib/python3.8/site-packages/bs4/tests
+352	sherlock/env/lib/python3.8/site-packages/bs4/__pycache__
+120	sherlock/env/lib/python3.8/site-packages/bs4/builder/__pycache__
+264	sherlock/env/lib/python3.8/site-packages/bs4/builder
+1648	sherlock/env/lib/python3.8/site-packages/bs4
+56	sherlock/env/lib/python3.8/site-packages/requests-2.23.0.dist-info
+24	sherlock/env/lib/python3.8/site-packages/requests_futures/__pycache__
+48	sherlock/env/lib/python3.8/site-packages/requests_futures
+104	sherlock/env/lib/python3.8/site-packages/setuptools-46.1.3.dist-info
+80	sherlock/env/lib/python3.8/site-packages/__pycache__
+64	sherlock/env/lib/python3.8/site-packages/stem/interpreter/__pycache__
+160	sherlock/env/lib/python3.8/site-packages/stem/interpreter
+184	sherlock/env/lib/python3.8/site-packages/stem/response/__pycache__
+384	sherlock/env/lib/python3.8/site-packages/stem/response
+384	sherlock/env/lib/python3.8/site-packages/stem/util/__pycache__
+848	sherlock/env/lib/python3.8/site-packages/stem/util
+664	sherlock/env/lib/python3.8/site-packages/stem/__pycache__
+776	sherlock/env/lib/python3.8/site-packages/stem/descriptor/__pycache__
+1696	sherlock/env/lib/python3.8/site-packages/stem/descriptor
+136	sherlock/env/lib/python3.8/site-packages/stem/client/__pycache__
+280	sherlock/env/lib/python3.8/site-packages/stem/client
+5472	sherlock/env/lib/python3.8/site-packages/stem
+368	sherlock/env/lib/python3.8/site-packages/requests/__pycache__
+792	sherlock/env/lib/python3.8/site-packages/requests
+80	sherlock/env/lib/python3.8/site-packages/lxml-4.5.0.dist-info
+80	sherlock/env/lib/python3.8/site-packages/pip/_internal/network/__pycache__
+184	sherlock/env/lib/python3.8/site-packages/pip/_internal/network
+320	sherlock/env/lib/python3.8/site-packages/pip/_internal/utils/__pycache__
+696	sherlock/env/lib/python3.8/site-packages/pip/_internal/utils
+104	sherlock/env/lib/python3.8/site-packages/pip/_internal/models/__pycache__
+216	sherlock/env/lib/python3.8/site-packages/pip/_internal/models
+160	sherlock/env/lib/python3.8/site-packages/pip/_internal/__pycache__
+200	sherlock/env/lib/python3.8/site-packages/pip/_internal/cli/__pycache__
+424	sherlock/env/lib/python3.8/site-packages/pip/_internal/cli
+56	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/install/__pycache__
+136	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/install
+40	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/__pycache__
+40	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/build/__pycache__
+72	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/build
+328	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations
+168	sherlock/env/lib/python3.8/site-packages/pip/_internal/req/__pycache__
+392	sherlock/env/lib/python3.8/site-packages/pip/_internal/req
+32	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/legacy/__pycache__
+72	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/legacy
+16	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/__pycache__
+88	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib
+184	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution
+120	sherlock/env/lib/python3.8/site-packages/pip/_internal/vcs/__pycache__
+264	sherlock/env/lib/python3.8/site-packages/pip/_internal/vcs
+104	sherlock/env/lib/python3.8/site-packages/pip/_internal/index/__pycache__
+240	sherlock/env/lib/python3.8/site-packages/pip/_internal/index
+40	sherlock/env/lib/python3.8/site-packages/pip/_internal/commands/__pycache__
+296	sherlock/env/lib/python3.8/site-packages/pip/_internal/commands
+40	sherlock/env/lib/python3.8/site-packages/pip/_internal/distributions/__pycache__
+80	sherlock/env/lib/python3.8/site-packages/pip/_internal/distributions
+3656	sherlock/env/lib/python3.8/site-packages/pip/_internal
+192	sherlock/env/lib/python3.8/site-packages/pip/_vendor/packaging/__pycache__
+424	sherlock/env/lib/python3.8/site-packages/pip/_vendor/packaging
+96	sherlock/env/lib/python3.8/site-packages/pip/_vendor/msgpack/__pycache__
+216	sherlock/env/lib/python3.8/site-packages/pip/_vendor/msgpack
+72	sherlock/env/lib/python3.8/site-packages/pip/_vendor/toml/__pycache__
+184	sherlock/env/lib/python3.8/site-packages/pip/_vendor/toml
+872	sherlock/env/lib/python3.8/site-packages/pip/_vendor/chardet/__pycache__
+16	sherlock/env/lib/python3.8/site-packages/pip/_vendor/chardet/cli
+1760	sherlock/env/lib/python3.8/site-packages/pip/_vendor/chardet
+32	sherlock/env/lib/python3.8/site-packages/pip/_vendor/webencodings/__pycache__
+120	sherlock/env/lib/python3.8/site-packages/pip/_vendor/webencodings
+32	sherlock/env/lib/python3.8/site-packages/pip/_vendor/progress/__pycache__
+72	sherlock/env/lib/python3.8/site-packages/pip/_vendor/progress
+40	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pep517/__pycache__
+176	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pep517
+320	sherlock/env/lib/python3.8/site-packages/pip/_vendor/distlib/_backport
+216	sherlock/env/lib/python3.8/site-packages/pip/_vendor/distlib/__pycache__
+2104	sherlock/env/lib/python3.8/site-packages/pip/_vendor/distlib
+64	sherlock/env/lib/python3.8/site-packages/pip/_vendor/colorama/__pycache__
+144	sherlock/env/lib/python3.8/site-packages/pip/_vendor/colorama
+80	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol/__pycache__
+24	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol/caches/__pycache__
+56	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol/caches
+256	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol
+96	sherlock/env/lib/python3.8/site-packages/pip/_vendor/idna/__pycache__
+648	sherlock/env/lib/python3.8/site-packages/pip/_vendor/idna
+632	sherlock/env/lib/python3.8/site-packages/pip/_vendor/__pycache__
+360	sherlock/env/lib/python3.8/site-packages/pip/_vendor/requests/__pycache__
+784	sherlock/env/lib/python3.8/site-packages/pip/_vendor/requests
+120	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/filters
+8	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__
+88	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treewalkers
+56	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__
+184	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treebuilders
+528	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/__pycache__
+32	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/_trie/__pycache__
+64	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/_trie
+24	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treeadapters
+1720	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib
+16	sherlock/env/lib/python3.8/site-packages/pip/_vendor/certifi/__pycache__
+600	sherlock/env/lib/python3.8/site-packages/pip/_vendor/certifi
+152	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/__pycache__
+336	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util
+240	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/__pycache__
+64	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/__pycache__
+64	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/_securetransport
+296	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib
+64	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/__pycache__
+8	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/backports
+8	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__pycache__
+32	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname
+176	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages
+1344	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3
+208	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pkg_resources/__pycache__
+432	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pkg_resources
+72	sherlock/env/lib/python3.8/site-packages/pip/_vendor/resolvelib
+12760	sherlock/env/lib/python3.8/site-packages/pip/_vendor
+8	sherlock/env/lib/python3.8/site-packages/pip/__pycache__
+16440	sherlock/env/lib/python3.8/site-packages/pip
+48	sherlock/env/lib/python3.8/site-packages/certifi-2020.4.5.1.dist-info
+24	sherlock/env/lib/python3.8/site-packages/certifi/__pycache__
+608	sherlock/env/lib/python3.8/site-packages/certifi
+64	sherlock/env/lib/python3.8/site-packages/requests_futures-1.0.0.dist-info
+56	sherlock/env/lib/python3.8/site-packages/wheel-0.34.2.dist-info
+152	sherlock/env/lib/python3.8/site-packages/urllib3/util/__pycache__
+336	sherlock/env/lib/python3.8/site-packages/urllib3/util
+248	sherlock/env/lib/python3.8/site-packages/urllib3/__pycache__
+136	sherlock/env/lib/python3.8/site-packages/urllib3/contrib/__pycache__
+48	sherlock/env/lib/python3.8/site-packages/urllib3/contrib/_securetransport/__pycache__
+112	sherlock/env/lib/python3.8/site-packages/urllib3/contrib/_securetransport
+416	sherlock/env/lib/python3.8/site-packages/urllib3/contrib
+64	sherlock/env/lib/python3.8/site-packages/urllib3/packages/__pycache__
+16	sherlock/env/lib/python3.8/site-packages/urllib3/packages/backports/__pycache__
+24	sherlock/env/lib/python3.8/site-packages/urllib3/packages/backports
+16	sherlock/env/lib/python3.8/site-packages/urllib3/packages/ssl_match_hostname/__pycache__
+40	sherlock/env/lib/python3.8/site-packages/urllib3/packages/ssl_match_hostname
+200	sherlock/env/lib/python3.8/site-packages/urllib3/packages
+1496	sherlock/env/lib/python3.8/site-packages/urllib3
+128	sherlock/env/lib/python3.8/site-packages/urllib3-1.25.9.dist-info
+72	sherlock/env/lib/python3.8/site-packages/colorama-0.4.3.dist-info
+128	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor/packaging/__pycache__
+320	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor/packaging
+96	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor/__pycache__
+968	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor
+496	sherlock/env/lib/python3.8/site-packages/setuptools/__pycache__
+352	sherlock/env/lib/python3.8/site-packages/setuptools/command/__pycache__
+920	sherlock/env/lib/python3.8/site-packages/setuptools/command
+8	sherlock/env/lib/python3.8/site-packages/setuptools/extern/__pycache__
+16	sherlock/env/lib/python3.8/site-packages/setuptools/extern
+3872	sherlock/env/lib/python3.8/site-packages/setuptools
+128	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/__pycache__
+288	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor/packaging
+504	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor/__pycache__
+1368	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor
+216	sherlock/env/lib/python3.8/site-packages/pkg_resources/__pycache__
+8	sherlock/env/lib/python3.8/site-packages/pkg_resources/extern/__pycache__
+16	sherlock/env/lib/python3.8/site-packages/pkg_resources/extern
+1832	sherlock/env/lib/python3.8/site-packages/pkg_resources
+64	sherlock/env/lib/python3.8/site-packages/idna-2.9.dist-info
+40	sherlock/env/lib/python3.8/site-packages/torrequest-0.1.0.dist-info
+304	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1
+328	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources/xsl
+40	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources/rng
+368	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources
+24	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/__pycache__
+424	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron
+1024	sherlock/env/lib/python3.8/site-packages/lxml/includes/libxml
+304	sherlock/env/lib/python3.8/site-packages/lxml/includes/libxslt
+24	sherlock/env/lib/python3.8/site-packages/lxml/includes/libexslt
+8	sherlock/env/lib/python3.8/site-packages/lxml/includes/__pycache__
+1720	sherlock/env/lib/python3.8/site-packages/lxml/includes
+304	sherlock/env/lib/python3.8/site-packages/lxml/html/__pycache__
+2176	sherlock/env/lib/python3.8/site-packages/lxml/html
+128	sherlock/env/lib/python3.8/site-packages/lxml/__pycache__
+24104	sherlock/env/lib/python3.8/site-packages/lxml
+72	sherlock/env/lib/python3.8/site-packages/stem-1.8.0.dist-info
+160	sherlock/env/lib/python3.8/site-packages/pip-20.1.dist-info
+61480	sherlock/env/lib/python3.8/site-packages
+61480	sherlock/env/lib/python3.8
+61480	sherlock/env/lib
+61632	sherlock/env
+8	sherlock/.github/workflows
+8	sherlock/.github
+23488	sherlock/.git/objects/pack
+0	sherlock/.git/objects/info
+23488	sherlock/.git/objects
+8	sherlock/.git/info
+8	sherlock/.git/logs/refs/heads
+8	sherlock/.git/logs/refs/remotes/origin
+8	sherlock/.git/logs/refs/remotes
+16	sherlock/.git/logs/refs
+24	sherlock/.git/logs
+96	sherlock/.git/hooks
+8	sherlock/.git/refs/heads
+0	sherlock/.git/refs/tags
+8	sherlock/.git/refs/remotes/origin
+8	sherlock/.git/refs/remotes
+16	sherlock/.git/refs
+23672	sherlock/.git
+88752	sherlock
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier ~ % [K[?2004hdu sherlock-sherlock[8Dhsherlock[8D sherlock[8D[?2004l
+ 88K	sherlock/sherlock/resources
+ 28K	sherlock/sherlock/tests
+ 44K	sherlock/sherlock/__pycache__
+220K	sherlock/sherlock
+1,4M	sherlock/images
+ 72K	sherlock/env/bin
+ 36K	sherlock/env/lib/python3.8/site-packages/chardet-3.0.4.dist-info
+ 20K	sherlock/env/lib/python3.8/site-packages/bs4-0.0.1.dist-info
+460K	sherlock/env/lib/python3.8/site-packages/chardet/__pycache__
+8,0K	sherlock/env/lib/python3.8/site-packages/chardet/cli/__pycache__
+ 16K	sherlock/env/lib/python3.8/site-packages/chardet/cli
+912K	sherlock/env/lib/python3.8/site-packages/chardet
+ 32K	sherlock/env/lib/python3.8/site-packages/beautifulsoup4-4.9.1.dist-info
+ 92K	sherlock/env/lib/python3.8/site-packages/soupsieve/__pycache__
+216K	sherlock/env/lib/python3.8/site-packages/soupsieve
+ 32K	sherlock/env/lib/python3.8/site-packages/colorama/__pycache__
+ 72K	sherlock/env/lib/python3.8/site-packages/colorama
+ 28K	sherlock/env/lib/python3.8/site-packages/soupsieve-2.0.1.dist-info
+ 36K	sherlock/env/lib/python3.8/site-packages/PySocks-1.7.1.dist-info
+232K	sherlock/env/lib/python3.8/site-packages/idna/__pycache__
+508K	sherlock/env/lib/python3.8/site-packages/idna
+ 52K	sherlock/env/lib/python3.8/site-packages/wheel/__pycache__
+4,0K	sherlock/env/lib/python3.8/site-packages/wheel/cli/__pycache__
+ 28K	sherlock/env/lib/python3.8/site-packages/wheel/cli
+156K	sherlock/env/lib/python3.8/site-packages/wheel
+152K	sherlock/env/lib/python3.8/site-packages/bs4/tests/__pycache__
+308K	sherlock/env/lib/python3.8/site-packages/bs4/tests
+176K	sherlock/env/lib/python3.8/site-packages/bs4/__pycache__
+ 60K	sherlock/env/lib/python3.8/site-packages/bs4/builder/__pycache__
+132K	sherlock/env/lib/python3.8/site-packages/bs4/builder
+824K	sherlock/env/lib/python3.8/site-packages/bs4
+ 28K	sherlock/env/lib/python3.8/site-packages/requests-2.23.0.dist-info
+ 12K	sherlock/env/lib/python3.8/site-packages/requests_futures/__pycache__
+ 24K	sherlock/env/lib/python3.8/site-packages/requests_futures
+ 52K	sherlock/env/lib/python3.8/site-packages/setuptools-46.1.3.dist-info
+ 40K	sherlock/env/lib/python3.8/site-packages/__pycache__
+ 32K	sherlock/env/lib/python3.8/site-packages/stem/interpreter/__pycache__
+ 80K	sherlock/env/lib/python3.8/site-packages/stem/interpreter
+ 92K	sherlock/env/lib/python3.8/site-packages/stem/response/__pycache__
+192K	sherlock/env/lib/python3.8/site-packages/stem/response
+192K	sherlock/env/lib/python3.8/site-packages/stem/util/__pycache__
+424K	sherlock/env/lib/python3.8/site-packages/stem/util
+332K	sherlock/env/lib/python3.8/site-packages/stem/__pycache__
+388K	sherlock/env/lib/python3.8/site-packages/stem/descriptor/__pycache__
+848K	sherlock/env/lib/python3.8/site-packages/stem/descriptor
+ 68K	sherlock/env/lib/python3.8/site-packages/stem/client/__pycache__
+140K	sherlock/env/lib/python3.8/site-packages/stem/client
+2,7M	sherlock/env/lib/python3.8/site-packages/stem
+184K	sherlock/env/lib/python3.8/site-packages/requests/__pycache__
+396K	sherlock/env/lib/python3.8/site-packages/requests
+ 40K	sherlock/env/lib/python3.8/site-packages/lxml-4.5.0.dist-info
+ 40K	sherlock/env/lib/python3.8/site-packages/pip/_internal/network/__pycache__
+ 92K	sherlock/env/lib/python3.8/site-packages/pip/_internal/network
+160K	sherlock/env/lib/python3.8/site-packages/pip/_internal/utils/__pycache__
+348K	sherlock/env/lib/python3.8/site-packages/pip/_internal/utils
+ 52K	sherlock/env/lib/python3.8/site-packages/pip/_internal/models/__pycache__
+108K	sherlock/env/lib/python3.8/site-packages/pip/_internal/models
+ 80K	sherlock/env/lib/python3.8/site-packages/pip/_internal/__pycache__
+100K	sherlock/env/lib/python3.8/site-packages/pip/_internal/cli/__pycache__
+212K	sherlock/env/lib/python3.8/site-packages/pip/_internal/cli
+ 28K	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/install/__pycache__
+ 68K	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/install
+ 20K	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/__pycache__
+ 20K	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/build/__pycache__
+ 36K	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations/build
+164K	sherlock/env/lib/python3.8/site-packages/pip/_internal/operations
+ 84K	sherlock/env/lib/python3.8/site-packages/pip/_internal/req/__pycache__
+196K	sherlock/env/lib/python3.8/site-packages/pip/_internal/req
+ 16K	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/legacy/__pycache__
+ 36K	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/legacy
+8,0K	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/__pycache__
+ 44K	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib
+ 92K	sherlock/env/lib/python3.8/site-packages/pip/_internal/resolution
+ 60K	sherlock/env/lib/python3.8/site-packages/pip/_internal/vcs/__pycache__
+132K	sherlock/env/lib/python3.8/site-packages/pip/_internal/vcs
+ 52K	sherlock/env/lib/python3.8/site-packages/pip/_internal/index/__pycache__
+120K	sherlock/env/lib/python3.8/site-packages/pip/_internal/index
+ 20K	sherlock/env/lib/python3.8/site-packages/pip/_internal/commands/__pycache__
+148K	sherlock/env/lib/python3.8/site-packages/pip/_internal/commands
+ 20K	sherlock/env/lib/python3.8/site-packages/pip/_internal/distributions/__pycache__
+ 40K	sherlock/env/lib/python3.8/site-packages/pip/_internal/distributions
+1,8M	sherlock/env/lib/python3.8/site-packages/pip/_internal
+ 96K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/packaging/__pycache__
+212K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/packaging
+ 48K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/msgpack/__pycache__
+108K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/msgpack
+ 36K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/toml/__pycache__
+ 92K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/toml
+436K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/chardet/__pycache__
+8,0K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/chardet/cli
+880K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/chardet
+ 16K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/webencodings/__pycache__
+ 60K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/webencodings
+ 16K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/progress/__pycache__
+ 36K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/progress
+ 20K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pep517/__pycache__
+ 88K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pep517
+160K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/distlib/_backport
+108K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/distlib/__pycache__
+1,0M	sherlock/env/lib/python3.8/site-packages/pip/_vendor/distlib
+ 32K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/colorama/__pycache__
+ 72K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/colorama
+ 40K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol/__pycache__
+ 12K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol/caches/__pycache__
+ 28K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol/caches
+128K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/cachecontrol
+ 48K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/idna/__pycache__
+324K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/idna
+316K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/__pycache__
+180K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/requests/__pycache__
+392K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/requests
+ 60K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/filters
+4,0K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__
+ 44K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treewalkers
+ 28K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__
+ 92K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treebuilders
+264K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/__pycache__
+ 16K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/_trie/__pycache__
+ 32K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/_trie
+ 12K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib/treeadapters
+860K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/html5lib
+8,0K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/certifi/__pycache__
+300K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/certifi
+ 76K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/__pycache__
+168K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util
+120K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/__pycache__
+ 32K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/__pycache__
+ 32K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/_securetransport
+148K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib
+ 32K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/__pycache__
+4,0K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/backports
+4,0K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__pycache__
+ 16K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname
+ 88K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages
+672K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/urllib3
+104K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pkg_resources/__pycache__
+216K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/pkg_resources
+ 36K	sherlock/env/lib/python3.8/site-packages/pip/_vendor/resolvelib
+6,2M	sherlock/env/lib/python3.8/site-packages/pip/_vendor
+4,0K	sherlock/env/lib/python3.8/site-packages/pip/__pycache__
+8,0M	sherlock/env/lib/python3.8/site-packages/pip
+ 24K	sherlock/env/lib/python3.8/site-packages/certifi-2020.4.5.1.dist-info
+ 12K	sherlock/env/lib/python3.8/site-packages/certifi/__pycache__
+304K	sherlock/env/lib/python3.8/site-packages/certifi
+ 32K	sherlock/env/lib/python3.8/site-packages/requests_futures-1.0.0.dist-info
+ 28K	sherlock/env/lib/python3.8/site-packages/wheel-0.34.2.dist-info
+ 76K	sherlock/env/lib/python3.8/site-packages/urllib3/util/__pycache__
+168K	sherlock/env/lib/python3.8/site-packages/urllib3/util
+124K	sherlock/env/lib/python3.8/site-packages/urllib3/__pycache__
+ 68K	sherlock/env/lib/python3.8/site-packages/urllib3/contrib/__pycache__
+ 24K	sherlock/env/lib/python3.8/site-packages/urllib3/contrib/_securetransport/__pycache__
+ 56K	sherlock/env/lib/python3.8/site-packages/urllib3/contrib/_securetransport
+208K	sherlock/env/lib/python3.8/site-packages/urllib3/contrib
+ 32K	sherlock/env/lib/python3.8/site-packages/urllib3/packages/__pycache__
+8,0K	sherlock/env/lib/python3.8/site-packages/urllib3/packages/backports/__pycache__
+ 12K	sherlock/env/lib/python3.8/site-packages/urllib3/packages/backports
+8,0K	sherlock/env/lib/python3.8/site-packages/urllib3/packages/ssl_match_hostname/__pycache__
+ 20K	sherlock/env/lib/python3.8/site-packages/urllib3/packages/ssl_match_hostname
+100K	sherlock/env/lib/python3.8/site-packages/urllib3/packages
+748K	sherlock/env/lib/python3.8/site-packages/urllib3
+ 64K	sherlock/env/lib/python3.8/site-packages/urllib3-1.25.9.dist-info
+ 36K	sherlock/env/lib/python3.8/site-packages/colorama-0.4.3.dist-info
+ 64K	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor/packaging/__pycache__
+160K	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor/packaging
+ 48K	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor/__pycache__
+484K	sherlock/env/lib/python3.8/site-packages/setuptools/_vendor
+248K	sherlock/env/lib/python3.8/site-packages/setuptools/__pycache__
+176K	sherlock/env/lib/python3.8/site-packages/setuptools/command/__pycache__
+460K	sherlock/env/lib/python3.8/site-packages/setuptools/command
+4,0K	sherlock/env/lib/python3.8/site-packages/setuptools/extern/__pycache__
+8,0K	sherlock/env/lib/python3.8/site-packages/setuptools/extern
+1,9M	sherlock/env/lib/python3.8/site-packages/setuptools
+ 64K	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/__pycache__
+144K	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor/packaging
+252K	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor/__pycache__
+684K	sherlock/env/lib/python3.8/site-packages/pkg_resources/_vendor
+108K	sherlock/env/lib/python3.8/site-packages/pkg_resources/__pycache__
+4,0K	sherlock/env/lib/python3.8/site-packages/pkg_resources/extern/__pycache__
+8,0K	sherlock/env/lib/python3.8/site-packages/pkg_resources/extern
+916K	sherlock/env/lib/python3.8/site-packages/pkg_resources
+ 32K	sherlock/env/lib/python3.8/site-packages/idna-2.9.dist-info
+ 20K	sherlock/env/lib/python3.8/site-packages/torrequest-0.1.0.dist-info
+152K	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1
+164K	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources/xsl
+ 20K	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources/rng
+184K	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/resources
+ 12K	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron/__pycache__
+212K	sherlock/env/lib/python3.8/site-packages/lxml/isoschematron
+512K	sherlock/env/lib/python3.8/site-packages/lxml/includes/libxml
+152K	sherlock/env/lib/python3.8/site-packages/lxml/includes/libxslt
+ 12K	sherlock/env/lib/python3.8/site-packages/lxml/includes/libexslt
+4,0K	sherlock/env/lib/python3.8/site-packages/lxml/includes/__pycache__
+860K	sherlock/env/lib/python3.8/site-packages/lxml/includes
+152K	sherlock/env/lib/python3.8/site-packages/lxml/html/__pycache__
+1,1M	sherlock/env/lib/python3.8/site-packages/lxml/html
+ 64K	sherlock/env/lib/python3.8/site-packages/lxml/__pycache__
+ 12M	sherlock/env/lib/python3.8/site-packages/lxml
+ 36K	sherlock/env/lib/python3.8/site-packages/stem-1.8.0.dist-info
+ 80K	sherlock/env/lib/python3.8/site-packages/pip-20.1.dist-info
+ 30M	sherlock/env/lib/python3.8/site-packages
+ 30M	sherlock/env/lib/python3.8
+ 30M	sherlock/env/lib
+ 30M	sherlock/env
+4,0K	sherlock/.github/workflows
+4,0K	sherlock/.github
+ 11M	sherlock/.git/objects/pack
+  0B	sherlock/.git/objects/info
+ 11M	sherlock/.git/objects
+4,0K	sherlock/.git/info
+4,0K	sherlock/.git/logs/refs/heads
+4,0K	sherlock/.git/logs/refs/remotes/origin
+4,0K	sherlock/.git/logs/refs/remotes
+8,0K	sherlock/.git/logs/refs
+ 12K	sherlock/.git/logs
+ 48K	sherlock/.git/hooks
+4,0K	sherlock/.git/refs/heads
+  0B	sherlock/.git/refs/tags
+4,0K	sherlock/.git/refs/remotes/origin
+4,0K	sherlock/.git/refs/remotes
+8,0K	sherlock/.git/refs
+ 12M	sherlock/.git
+ 43M	sherlock
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier ~ % [K[?2004hdu -h sherlock[1Cs sherlock[9D[?2004l
+ 43M	sherlock
+[1m[7m%[27m[1m[0m                                                                                                      ]7;file://MacBook-Pro-de-Olivier.local/Users/marcpartensky[0m[27m[24m[Jmarcpartensky@MacBook-Pro-de-Olivier ~ % [K[?2004h
