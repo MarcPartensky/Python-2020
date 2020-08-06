@@ -1,7 +1,6 @@
 import os
 import sys
 
-
 def webtojpg():
     for file in os.listdir(os.getcwd()):
         if file.endswith('.webp'):
