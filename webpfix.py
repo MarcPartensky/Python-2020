@@ -12,16 +12,16 @@ def jpgtomp3():
     for file in os.listdir(os.getcwd()):
         if file.endswith('.jpg'):
             print(file)
-            name = file[:-4]
-            print(f"ffmpeg -i '{name}.mp3' -i '{name}.jpg' -map_metadata 0 \
--map 0 -map 1 -acodec copy '{name}.mp3'")
-            os.system(f"ffmpeg -i '{name}.mp3' -i '{name}.jpg' -map_metadata 0 \
--map 0 -map 1 -acodec copy '{name}.tempo.mp3'")
+            name = file[:-4].replace('"', "'")
+            print(f'ffmpeg -i "{name}.mp3" -i "{name}.jpg" -map_metadata 0 \
+-map 0 -map 1 -acodec copy "{name}.tempo.mp3"')
+            os.system(f'ffmpeg -i "{name}.mp3" -i "{name}.jpg" -map_metadata 0 \
+-map 0 -map 1 -acodec copy "{name}.tempo.mp3"')
 
 def rename():
     for file in os.listdir(os.getcwd()):
         if file.endswith('.tempo.mp3'):
-            name = file[:-len('.tempo.mp3')]
+            name = file[:-len('.tempo.mp3')].replace('"', "'")
             os.rename(f"{name}.tempo.mp3", f"{name}.mp3")
 
 
