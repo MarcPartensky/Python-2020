@@ -9,6 +9,6 @@ app = Flask(__name__)
 def main():
     """Main function that does main things."""
     print('salut')
-    return 'wesh mon gars'
+    return 'wesh tranquille?'
 
 app.run()
