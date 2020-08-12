@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-    """Main function."""
+    """Main function that does main things."""
     print('salut')
     return 'wesh'
 
