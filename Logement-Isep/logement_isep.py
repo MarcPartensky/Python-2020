@@ -1,5 +1,4 @@
 """Find locations in issy-les-moulineaux and keep me informed of new offers."""
-
 import os
 
 from selenium import webdriver
@@ -21,5 +20,11 @@ password_field.send_keys(password_value)
 
 submit_field.click()
 
-
 driver.get(URL_SORTED_BY_CHEAPEST)
+
+table_elements = driver.find_elements_by_tag_name('table')
+
+print(len(table_elements))
+
+
+
