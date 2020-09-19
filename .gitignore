@@ -2,4 +2,5 @@ Itunes/itunesterms
 googlemaps_keys.py
 __pycache__/
 chromedriver
-
+.DS_Store
+.idea/

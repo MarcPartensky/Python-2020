@@ -2,11 +2,11 @@
 import os
 from selenium import webdriver
 
-driver = webdriver.Chrome('./chromedriver')
+ISEP_PASSWORD = os.environ["ISEP_PORTAL_PASSWORD"]
+ISEP_ID = os.environ["ISEP_ID"]
 
 url = 'https://portail.isep.fr/'
-ISEP_PASSWORD = os.environ["ISEP_PASSWORD"]
-ISEP_ID = os.environ["ISEP_ID"]
+driver = webdriver.Chrome('./chromedriver')
 
 driver.get(url)
 elements = driver.find_elements_by_tag_name('input')
