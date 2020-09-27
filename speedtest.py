@@ -22,7 +22,7 @@ import sys
 import math
 import errno
 import signal
-import scket
+import socket
 import timeit
 import datetime
 import platform
