@@ -22,3 +22,5 @@ isep_password.send_keys(ISEP_PASSWORD)
 submit_buttons = driver.find_elements_by_tag_name('button')
 submit = submit_buttons[0]
 submit.click()
+
+
