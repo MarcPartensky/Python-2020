@@ -8,9 +8,22 @@ import threading
 
 HEADER = 64
 PORT = 5050
+
+def get_host():
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    try:
+        # doesn't have to be reachable
+        s.connect(('10.255.255.255', 1))
+        host = s.getsockname()[0]
+    except Exception:
+        host = '127.0.0.1'
+    finally:
+        s.close()
+    return host
+
 # HOST = socket.gethostbyname(socket.gethostname())
 print("before get host by name")
-HOST = socket.gethostbyname('localhost')
+HOST = get_host()
 print(HOST)
 ADDR = (HOST, PORT)
 FORMAT = 'utf-8'
@@ -39,7 +52,7 @@ def handle_client(conn, addr):
 def start():
     """Start the HOST."""
     HOST.listen()
-    print("[LISTENING] HOST listening on {HOST}")
+    print(f"[LISTENING] HOST listening on {HOST}")
     while True:
         conn, addr = HOST.accept()
         thread = threading.Thread(target=handle_client, args=(conn, addr))
