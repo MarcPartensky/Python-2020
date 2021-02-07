@@ -29,7 +29,8 @@ time.sleep(2)
 waiting = True
 while waiting:
     elements = driver.find_elements_by_xpath(
-        "//div[text()='Waiting for competitors...']")
+        "//div[text()='Waiting for competitors...']"
+    )
     waiting = bool(elements)
 
 time.sleep(2)
