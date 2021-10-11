@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+"""Jeu d'échecs pour le TIPE de thibault."""
+
 from pygame.locals import *
 import pygame
 import random
